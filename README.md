@@ -1,4 +1,4 @@
-# 📰 Fake News Identifier - Machine Learning Project 🧠
+# 📰 Fake News Identifier - Machine Learning Project 🤖
 
 This project focuses on identifying fake news using Natural Language Processing (NLP) techniques. The goal is to classify news articles as either **real** or **fake** based on their content.
 
